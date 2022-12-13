@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: my.telegram.bot.spanish
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-mongodb, http-client, jackson-databind, java, java-application, junit, logback, maven, netty-server, reactor, reactor-http-client, readme, shade, test-resources, yaml]
